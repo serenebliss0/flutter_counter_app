@@ -1,6 +1,6 @@
 # flutter_counter_app
 
-A new Flutter project.
+A basic ahh counter
 
 ## Getting Started
 
